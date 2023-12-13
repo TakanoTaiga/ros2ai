@@ -25,6 +25,7 @@ setup(
             'pix2struct_textcaps_base = ros2ai.pix2struct_textcaps_base:main',
             'vit_gpt2_image_captioning = ros2ai.vit_gpt2_image_captioning:main',
             'resnet_50 = ros2ai.resnet_50:main',
+            'vilt_b32_finetuned_vqa = ros2ai.vilt_b32_finetuned_vqa:main',
         ],
     },
 )

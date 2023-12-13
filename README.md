@@ -56,6 +56,16 @@ ros2 run ros2ai vit_gpt2_image_captioning
 ```
 </details>
 
+### Vision QA
+<details>
+<summary>vilt_b32_finetuned_vqa</summary>
+
+```bash
+ros2 run ros2ai vilt_b32_finetuned_vqa
+```
+</details>
+
+
 ### Image-classification
 
 <details>
