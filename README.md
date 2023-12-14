@@ -75,3 +75,21 @@ ros2 run ros2ai vilt_b32_finetuned_vqa
 ros2 run ros2ai resnet_50
 ```
 </details>
+
+### zero-shot object detection 
+
+<details>
+<summary>owlvit_base_patch16</summary>
+
+```bash
+ros2 run ros2ai owlvit_base_patch16
+```
+</details>
+
+<details>
+<summary>owlvit_base_patch32</summary>
+
+```bash
+ros2 run ros2ai owlvit_base_patch32
+```
+</details>

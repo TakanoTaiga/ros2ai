@@ -26,6 +26,8 @@ setup(
             'vit_gpt2_image_captioning = ros2ai.vit_gpt2_image_captioning:main',
             'resnet_50 = ros2ai.resnet_50:main',
             'vilt_b32_finetuned_vqa = ros2ai.vilt_b32_finetuned_vqa:main',
+            'owlvit_base_patch16 = ros2ai.owlvit_base_patch16:main',
+            'owlvit_base_patch32 = ros2ai.owlvit_base_patch32:main',
         ],
     },
 )
